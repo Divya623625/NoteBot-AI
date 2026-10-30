@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+pdf2image
+PyPDF2
+langchain-text-splitters
+langchain-google-genai
+langchain-community
+faiss-cpu

@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+saved_indexes/
+__pycache__/
+*.pyc
+.idea/
+venv/
+.env
